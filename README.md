@@ -5,7 +5,7 @@ This project is an interactive Coffee Sales Dashboard created using Excel. The d
 📷 Dashboard Preview
 
 Here’s a snapshot of the Coffee Sales Dashboard:
-!(Dashboard_Screenshot.png)
+![Coffee Sales Dashboard](Dashboard_Screenshot.png)
 
 
 📊 Dashboard Overview
