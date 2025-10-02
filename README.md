@@ -2,6 +2,13 @@
 
 This project is an interactive Coffee Sales Dashboard created using Excel. The dashboard provides an analytical view of coffee sales across multiple dimensions such as time, geography, product type, and customer segmentation. It allows business stakeholders to monitor sales performance, identify top-performing products, and analyze customer behavior.
 
+📷 Dashboard Preview
+
+Here’s a snapshot of the Coffee Sales Dashboard:
+Coffee_Sales_Analysis-
+/Dashboard_Screenshot.png
+
+
 📊 Dashboard Overview
 
 The Coffee Sales Dashboard helps answer key business questions:
@@ -68,9 +75,6 @@ Loyalty Card filter (Yes / No).
 
 These filters make the dashboard dynamic and adaptable for different analysis perspectives.
 
-📷 Dashboard Preview
-
-Here’s a snapshot of the Coffee Sales Dashboard:
 
 🛠️ Tools & Technologies Used
 
